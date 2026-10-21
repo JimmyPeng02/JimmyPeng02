@@ -1,5 +1,7 @@
-### Hi there, I'm Jimmy Peng 👋 
-### building EnvX now
-- 🎓 Ph.D. candidate in AI at Zhejiang University & Shanghai Innovation Institute, focusing on AI Agent and Embodied Intelligence.
-- 🛠️ Full-Stack Developer | Startup Founder | MiraclePlus F25（ex YC china）
-- 📫 Always open to collaborations———feel free to reach out via email at jimmyp@envx.tech
+I’m Jimmy, founder of [Fluma Intelligence](https://fluma.ai/).
+
+PhD student at Zhejiang University & Shanghai Innovation Institute.
+
+Selected work: [EnvX](https://envx.tech) · [OpenWBC](https://github.com/jiachengliu3/OpenWBC) · [VidCRAFT3](https://sixiaozheng.github.io/VidCRAFT3/)
+
+[Email](mailto:jimmyp@envx.tech)

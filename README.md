@@ -4,4 +4,4 @@ PhD student at Zhejiang University & Shanghai Innovation Institute.
 
 Selected work: [EnvX](https://envx.tech) · [OpenWBC](https://github.com/jiachengliu3/OpenWBC) · [VidCRAFT3](https://sixiaozheng.github.io/VidCRAFT3/)
 
-[Email](mailto:jimmyp@envx.tech)
+[Email](mailto:jimmyp@envx.tech) · [Google Scholar](https://scholar.google.com/citations?user=SzAIRKoAAAAJ)
